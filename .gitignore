@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+*.xcscmblueprint
+*.xccheckout
+
+# Xcode build output
+build/
+Build/
+DerivedData/
+Index.noindex/
+*.hmap
+*.ipa
+*.xcarchive/
+*.xcresult/
+*.dSYM/
+*.app/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Local release/export output
+Prod/
