@@ -264,6 +264,8 @@ The menu bar item shows the most recent rename and total screenshots renamed. Fr
 
 - Enable or disable launch at startup
 
+- Hide the menu bar icon
+
 - In debug builds, open or clear the debug log
 
   

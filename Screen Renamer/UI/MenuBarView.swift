@@ -10,6 +10,10 @@ struct MenuBarView: View {
 
         Toggle(launchAtStartupTitle, isOn: launchAtStartupBinding)
 
+		 Button("Hide Menu Bar Icon") {
+            controller.hideMenuBarItem()
+        }
+
         Divider()
 
         debugMenuItems
